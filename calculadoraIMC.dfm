@@ -53,5 +53,6 @@ object Form1: TForm1
     Height = 25
     Caption = 'Calcular'
     TabOrder = 2
+    OnClick = ButtonCalcularClick
   end
 end
