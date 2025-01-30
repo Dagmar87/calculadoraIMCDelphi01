@@ -9,11 +9,11 @@ uses
 type
   TForm1 = class(TForm)
     LabelPeso: TLabel;
-    LabelAltura: TLabel;
     LabelResultado: TLabel;
     EditPeso: TEdit;
     EditAltura: TEdit;
     ButtonCalcular: TButton;
+    LabelAltura: TLabel;
   private
     { Private declarations }
   public
